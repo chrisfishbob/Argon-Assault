@@ -1,1 +1,3 @@
-This is just for the support page as demanded by the AppStore. Not the actual repo!
+This repo contains all the code from the project. 
+Note that due to the 100mb size constraint of GitHub, assets and other files are not included. As a result, the game cannot be built by this repo alone.
+The actual project file is is around 3.8 GB and is available upon request
